@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'AlexBrushRegular';
+    src: url('../fonts/AlexBrush-Regular-OTF-webfont.eot');
+    src: url('../fonts/AlexBrush-Regular-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/AlexBrush-Regular-OTF-webfont.woff') format('woff'),
+         url('../fonts/AlexBrush-Regular-OTF-webfont.ttf') format('truetype'),
+         url('../fonts/AlexBrush-Regular-OTF-webfont.svg#AlexBrushRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+html { 
+	background: url(../img/IMG_1490.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+html, body {
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+
+.header-container {
+    font-size:24px;
+    
+}
+
+.header-container h1 {
+    font-family: AlexBrushRegular, Arial, sans-serif;
+    letter-spacing: 0;
+}
+
+.footer, .push {
+    height: 4em;
+}
+
+/*
+.footer-container footer {
+    padding: 20px 0;
+}
+*/
+
+.invisible {
+    visibility: hidden;
+}
