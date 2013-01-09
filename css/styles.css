@@ -10,6 +10,11 @@
 
 }
 
+a:link {text-decoration:none; color:#0d8003;}
+a:visited {color:#0d8003;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underine;}
+
 
 html { 
 	background: url(../img/IMG_1490.png) no-repeat center center fixed; 
@@ -38,6 +43,9 @@ html, body {
 .header-container h1 {
     font-family: AlexBrushRegular, Arial, sans-serif;
     letter-spacing: 0;
+    color: #0d8003;
+
+
 }
 
 .footer, .push {
