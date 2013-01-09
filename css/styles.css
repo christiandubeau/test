@@ -54,6 +54,9 @@ aside {
     border: 0;
     padding: 20px;
     display: block;
+    overflow: auto;
+    height: 400px;
+    text-align: center;
 }
 
 aside h1 {
@@ -99,9 +102,10 @@ article {
     border: 0;
     padding: 20px;
     display: block;
-    overflow-y: scroll;
+    overflow-y: auto;
     padding: 20px;
     height: 400px;
+    text-align: center;
 }
 
 article h1 {
@@ -120,7 +124,8 @@ article h1 {
 
 .pic article {
     height: 200px;
-    overflow: auto;
+    overflow: hidden;
+/*    picture should be 240 pixels wide and 200px tall*/
 }
 
 .invisible {
