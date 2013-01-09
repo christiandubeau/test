@@ -122,12 +122,16 @@ article h1 {
     text-align:center;
 }
 
-.pic article {
-    height: 200px;
-    overflow: hidden;
-/*    picture should be 240 pixels wide and 200px tall*/
-}
-
 .invisible {
     visibility: hidden;
+}
+
+.profilepic {
+    height: 164px;
+    width: 164px;
+    moz-box-shadow: 2px 2px 0 #545659;
+    -webkit-box-shadow: 2px 2px 0 #545659;
+    box-shadow: 2px 2px 0 #545659;
+    position: relative;
+    left: 27px
 }
