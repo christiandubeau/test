@@ -57,6 +57,10 @@ aside {
 
 aside h1 {
     font-family: AlexBrushRegular, Arial, sans-serif;
+    moz border radius: 15px;
+    -webkit-border-radius: 15px;
+    box-shadow: 0 0 10px #629996;
+    -webkit-box-shadow: 0 0 10px #629996;
     letter-spacing: 0;
     color: #0d8003;
     background-color: #b5e0b1;
@@ -79,6 +83,36 @@ aside li {
 
 nav a {
     padding: 2px;
+}
+
+article {
+    box-shadow: 0 0 10px #629996;
+    -webkit-box-shadow: 0 0 10px #629996;
+    moz border radius: 15px;
+    -webkit-border-radius: 15px;
+    box-shadow: 0 0 10px #629996;
+    -webkit-box-shadow: 0 0 10px #629996;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    padding: 20px;
+    display: block;
+    overflow-y: scroll;
+    padding: 20px;
+    height: 400px;
+}
+
+article h1 {
+    font-family: AlexBrushRegular, Arial, sans-serif;
+    moz border radius: 15px;
+    -webkit-border-radius: 15px;
+    box-shadow: 0 0 10px #629996;
+    -webkit-box-shadow: 0 0 10px #629996;
+    letter-spacing: 0;
+    color: #0d8003;
+    background-color: #b5e0b1;
+    opacity: 1;
+    padding: 10px;
 }
 
 .invisible {
