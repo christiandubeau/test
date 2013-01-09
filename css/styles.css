@@ -7,7 +7,6 @@
          url('../fonts/AlexBrush-Regular-OTF-webfont.svg#AlexBrushRegular') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
 
 a:link {text-decoration:none; color:#0d8003;}
@@ -35,8 +34,7 @@ html, body {
 }
 
 .header-container {
-    font-size:24px;
-    
+    font-size:24px;   
 }
 
 .header-container h1 {
@@ -54,10 +52,33 @@ aside {
     padding: 0;
     border: 0;
     padding: 20px;
+    display: block;
+}
+
+aside h1 {
+    font-family: AlexBrushRegular, Arial, sans-serif;
+    letter-spacing: 0;
+    color: #0d8003;
+    background-color: #b5e0b1;
+    opacity: 1;
+    padding: 10px;
+    
+}
+
+.opaque {
+    opacity: 1;
 }
 
 .footer, .push {
     height: 4em;
+}
+
+aside li {
+    display: inline;
+}
+
+nav a {
+    padding: 2px;
 }
 
 .invisible {
