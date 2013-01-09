@@ -118,6 +118,11 @@ article h1 {
     text-align:center;
 }
 
+.pic article {
+    height: 200px;
+    overflow: auto;
+}
+
 .invisible {
     visibility: hidden;
 }
