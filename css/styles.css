@@ -15,7 +15,6 @@ a:visited {color:#0d8003;}
 a:hover {text-decoration:underline;}
 a:active {text-decoration:underine;}
 
-
 html { 
 	background: url(../img/IMG_1490.png) no-repeat center center fixed; 
 	-webkit-background-size: cover;
@@ -44,19 +43,22 @@ html, body {
     font-family: AlexBrushRegular, Arial, sans-serif;
     letter-spacing: 0;
     color: #0d8003;
+}
 
-
+aside {
+    moz border radius: 15px;
+    -webkit-border-radius: 15px;
+    box-shadow: 0 0 10px #629996;
+    -webkit-box-shadow: 0 0 10px #629996;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    padding: 20px;
 }
 
 .footer, .push {
     height: 4em;
 }
-
-/*
-.footer-container footer {
-    padding: 20px 0;
-}
-*/
 
 .invisible {
     visibility: hidden;
