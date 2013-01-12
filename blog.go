@@ -30,7 +30,7 @@ var (
 )
 
 const (
-	PATHSEP       = string(os.PathSeparator)
+	PATHSEP = string(os.PathSeparator)
 )
 
 type Post struct {
