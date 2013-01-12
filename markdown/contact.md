@@ -191,7 +191,7 @@ border: 1px solid red !important;
       </li>
       <li class="form-line" id="id_5">
         <div id="cid_5" class="form-input-wide">
-          <div style="text-align:left" class="form-buttons-wrapper">
+          <div style="text-align:center" class="form-buttons-wrapper">
             <button id="input_5" type="submit" class="form-submit-button">
               Send
             </button>
