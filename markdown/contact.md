@@ -148,7 +148,7 @@ border: 1px solid red !important;
 }
     /* Injected CSS Code */
 </style>
-
+<center>
 <form class="jotform-form" action="http://submit.jotform.us/submit/30110475913142/" method="post" name="form_30110475913142" id="30110475913142" accept-charset="utf-8">
   <input type="hidden" name="formID" value="30110475913142" />
   <div class="form-all">
@@ -208,4 +208,4 @@ border: 1px solid red !important;
   <script type="text/javascript">
   document.getElementById("si" + "mple" + "_spc").value = "30110475913142-30110475913142";
   </script>
-</form>
+</form></center>
