@@ -127,8 +127,8 @@ article h1 {
 }
 
 .profilepic {
-    height: 164px;
-    width: 164px;
+    /*height: 164px;
+    width: 164px;*/
     moz-box-shadow: 2px 2px 0 #545659;
     -webkit-box-shadow: 2px 2px 0 #545659;
     box-shadow: 2px 2px 0 #545659;
