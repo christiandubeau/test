@@ -56,7 +56,7 @@ aside {
     display: block;
     overflow: auto;
     height: 400px;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 aside h1 {
@@ -87,7 +87,7 @@ aside li {
 }
 
 nav a {
-    padding: 2px;
+    padding: 1px;
 }
 
 article {
@@ -139,4 +139,9 @@ article h1 {
 .music-sample {
     position: relative;
     top: 40%;
+}
+
+.follow-buttons {
+    position: relative;
+    right: 10%;
 }
