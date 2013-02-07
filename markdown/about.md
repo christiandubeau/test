@@ -1,1 +1,5 @@
-wonk
+Christian Dubeau started music lessons at the age of five. While growing up, he played piano in competitions and participated in the Certificate of Merit exams. While pursuing his undergraduate studies at USC, he studied piano with Norman Krieger, among other great teachers. He also studied composition with Morten Lauridsen, David Fick and Veronika Krausas. He went on get his masters degree in composition at UC Irvine and is now pursuing a PhD in composition at UC Riverside, where he studies with Paulo Chagas and Tim Labor. In addition to classical music, Christian has also been playing keyboards in a rock band for several years and has toured and played music with them in California, Nevada and Arizona. 
+
+His passions are composing, performing and teaching music. His classical compositions have been played by several performers at many concerts in the Southern California region. 
+
+Feel free to leave any comments! Enjoy the music!
